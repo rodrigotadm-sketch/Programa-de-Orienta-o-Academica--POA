@@ -1,0 +1,344 @@
+{
+  "meta": {
+    "titulo": "Programa de Orientação Acadêmica | Biomedicina UFPR",
+    "versao": "9.0",
+    "atualizacao": "2026-10-29",
+    "instituicao": "Universidade Federal do Paraná",
+    "unidade": "Coordenação do Curso de Biomedicina"
+  },
+  "hero": {
+    "sobretitulo": "UNIVERSIDADE FEDERAL DO PARANÁ · BIOMEDICINA",
+    "titulo": "Programa de Orientação Acadêmica",
+    "descricao": "Acompanhamento acadêmico, planejamento curricular e permanência estudantil. Consulte normas, formulários, procedimentos no SEI e serviços de apoio.",
+    "textoBotao": "Consultar procedimentos",
+    "destinoBotao": "#procedimentos"
+  },
+  "navegacao": [
+    {
+      "id": "sobre",
+      "texto": "Sobre"
+    },
+    {
+      "id": "normas",
+      "texto": "Normas"
+    },
+    {
+      "id": "ingresso",
+      "texto": "Participação"
+    },
+    {
+      "id": "encontros",
+      "texto": "Encontros"
+    },
+    {
+      "id": "formularios",
+      "texto": "Formulários"
+    },
+    {
+      "id": "procedimentos",
+      "texto": "Procedimentos"
+    },
+    {
+      "id": "registros",
+      "texto": "Registros"
+    },
+    {
+      "id": "apoio",
+      "texto": "Rede de apoio"
+    },
+    {
+      "id": "duvidas",
+      "texto": "Contato"
+    }
+  ],
+  "secoes": [
+    {
+      "id": "sobre",
+      "etiqueta": "Apresentação",
+      "titulo": "Sobre o programa",
+      "paragrafos": [
+        "O POA acompanha a trajetória estudantil, promove a permanência, apoia a integralização curricular e contribui para enfrentar a evasão. A orientação acadêmica é uma atividade docente baseada na escuta e no planejamento conjunto com o estudante.",
+        "O Colegiado regulamenta, supervisiona e acompanha os resultados do programa, podendo atribuir funções administrativas à Comissão de Orientação Acadêmica (COA). Servidores técnico-administrativos podem apoiar o programa, sem substituir a orientação docente."
+      ]
+    },
+    {
+      "id": "normas",
+      "etiqueta": "Documentos oficiais",
+      "titulo": "Normas e regulamentos",
+      "paragrafos": [
+        "Documentos institucionais e do curso. O Manual de Formação (2026) destaca a Resolução nº 01/26-CEPE e a Instrução Normativa nº 05/2026-PROGRAP como referências atuais. A vigência e a relação com normas anteriores devem ser verificadas na fonte oficial."
+      ],
+      "links": [
+        {
+          "titulo": "Resolução nº 95-A/15-CEPE",
+          "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/Programa-de-Orientacao-Academica-dos-95-15-CEPE.pdf",
+          "botao": "Acessar documento"
+        },
+        {
+          "titulo": "Resolução nº 01/26-CEPE",
+          "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/Resolucao-01-2026-CEPE-Dispoe-sobre-o-Programa-de-Acompanhamento-e-Orientacao-Academica.pdf",
+          "botao": "Acessar documento"
+        },
+        {
+          "titulo": "INSTRUÇÃO NORMATIVA N° 05 -2026 - PROGRA -UFPR",
+          "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/INSTRUCAO-NORMATIVA-N°-05-2026-PROGRA-UFPR.pdf",
+          "botao": "Acessar documento"
+        },
+        {
+          "titulo": "Manual de formação para orientação Academica",
+          "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/Manual-de-formacao-para-orientacao-Academica.pdf",
+          "botao": "Acessar documento"
+        },
+        {
+          "titulo": "Regulamento do POA do Curso de Biomedicina",
+          "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/Biomedicina-POA.pdf",
+          "botao": "Acessar documento"
+        },
+        {
+          "titulo": "Regulamento complementar anteriormente divulgado",
+          "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/PROGRAMA-DE-ORIENTACAO-ACADEMICA.pdf",
+          "botao": "Acessar documento"
+        },
+        {
+          "titulo": "PROGRAP — Programa de Orientação Acadêmica",
+          "url": "https://prograp.ufpr.br/copeg/programa-de-orientacao-academica-poa/",
+          "botao": "Acessar página"
+        }
+      ]
+    },
+    {
+      "id": "ingresso",
+      "titulo": "Identificação e ingresso no POA",
+      "etiqueta": "Participação",
+      "paragrafos": [
+        "A Coordenação identifica estudantes que necessitam de acompanhamento, utilizando o Relatório Previsão da Evasão e o Relatório Dinâmico do POA, disponíveis no SIGA. Encaminha a relação ao Colegiado ou instância responsável.",
+        "Estudantes também podem solicitar espontaneamente ingresso no programa. Os relatórios acadêmicos devem ser compartilhados somente com pessoas autorizadas e observando a LGPD."
+      ]
+    },
+    {
+      "id": "encontros",
+      "titulo": "Como funciona a orientação acadêmica",
+      "etiqueta": "Encontros com o tutor",
+      "paragrafos": [
+        "Recomendam-se encontros semestrais, com possibilidade de encontros adicionais. Podem ser presenciais ou online; encontros em grupo dependem de concordância, preservando-se a possibilidade de atendimento individual.",
+        "O tutor acolhe e escuta, orienta sobre disciplinas, pré-requisitos, plano de estudos, alternativas acadêmicas, pesquisa, extensão e atividades formativas; encaminha a serviços de apoio quando a demanda extrapola o âmbito acadêmico.",
+        "O estudante apresenta histórico e documentos necessários diretamente ao tutor; se necessário, o tutor solicita à Coordenação, preferencialmente por e-mail institucional @ufpr.br."
+      ]
+    },
+    {
+      "id": "formularios",
+      "etiqueta": "Arquivos editáveis",
+      "titulo": "Formulários do POA",
+      "paragrafos": [
+        "Modelos em Word para utilização nos procedimentos de acompanhamento. Os formulários 02 e 04 têm nomes semelhantes e foram mantidos como documentos distintos, conforme disponibilizados."
+      ],
+      "links": [
+        {
+          "titulo": "01 — Ficha de Encaminhamento",
+          "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/01_Ficha_de_Encaminhamento.docx",
+          "botao": "Baixar Word"
+        },
+        {
+          "titulo": "02 — Relatório de Acompanhamento",
+          "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/02_Relatorio_de_Acompanhamento.docx",
+          "botao": "Baixar Word"
+        },
+        {
+          "titulo": "03 — Relatório Semestral",
+          "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/03_Relatorio_Semestral.docx",
+          "botao": "Baixar Word"
+        },
+        {
+          "titulo": "04 — Relatório de Acompanhamento (modelo 04)",
+          "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/04_Relatorio_de_Acompanhamento.docx",
+          "botao": "Baixar Word"
+        },
+        {
+          "titulo": "05 — Plano de Estudos Discente",
+          "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/05_PLANO-DE-ESTUDOS-DISCENTE.docx",
+          "botao": "Baixar Word"
+        }
+      ],
+      "aviso": "Os modelos Word são arquivos públicos em branco. Registros preenchidos com dados pessoais devem permanecer em canais institucionais autorizados, com a proteção exigida pela LGPD. A equivalência dos modelos locais aos documentos padronizados no SEI deve ser conferida."
+    },
+    {
+      "id": "procedimentos",
+      "titulo": "Procedimentos do POA — fluxo institucional",
+      "etiqueta": "12 etapas conforme Manual POA 2026",
+      "paragrafos": [
+        "Sequência reorganizada a partir do manual institucional, páginas 5–16 e 21–30. Abra cada etapa para ver as responsabilidades e providências."
+      ],
+      "aviso": "Atenção: processos individuais sigilosos não são tramitáveis. Termos de participação e relatórios gerais seguem fluxo administrativo próprio. O Manual de 2026 orienta que o docente abra o processo individual; rotinas locais divergentes devem ser ajustadas institucionalmente.",
+      "etapas": [
+        {
+          "numero": 1,
+          "responsavel": "Coordenação / Colegiado ou COA",
+          "titulo": "Identificar e admitir estudantes",
+          "descricao": "Utilizar relatórios do SIGA e receber pedidos espontâneos; encaminhar ao Colegiado ou à instância administrativa responsável a relação de estudantes a acompanhar."
+        },
+        {
+          "numero": 2,
+          "responsavel": "Colegiado ou COA / Coordenação",
+          "titulo": "Formalizar equipe e designar orientadores",
+          "descricao": "Designar docentes efetivos para a orientação e formalizar a equipe. A Secretaria e técnicos podem apoiar atividades administrativas; a orientação acadêmica permanece como atribuição docente."
+        },
+        {
+          "numero": 3,
+          "responsavel": "Coordenação / Secretaria",
+          "titulo": "Providenciar termos de participação",
+          "descricao": "Coletar Termo de Aceite e Sigilo dos estudantes maiores de 18 anos; para menores, Termo de Ciência e Autorização assinado por responsável legal. Utilizar os documentos padronizados no SEI; para assinaturas externas, habilitar usuário externo. O manual recomenda processo específico para os termos, com acesso restrito."
+        },
+        {
+          "numero": 4,
+          "responsavel": "Docente orientador",
+          "titulo": "Abrir o processo individual sigiloso no SEI",
+          "descricao": "Iniciar o processo “Programa de Orientação Acadêmica (POA) - Registro Individual de Orientação Acadêmica”, marcando nível de acesso sigiloso. O processo é destinado à guarda e registro individual e NÃO pode ser tramitado."
+        },
+        {
+          "numero": 5,
+          "responsavel": "Docente orientador",
+          "titulo": "Conceder acesso autorizado aos registros",
+          "descricao": "No processo individual, usar “Gerenciar Disponibilizações de Acesso Externo” para estudante ou responsável legal, com “Acompanhamento integral do processo”; não habilitar inclusão de documentos. Definir validade aproximada até a integralização do curso, conforme manual. Restringir acesso às pessoas autorizadas."
+        },
+        {
+          "numero": 6,
+          "responsavel": "Docente orientador / Estudante",
+          "titulo": "Realizar acolhimento e construir o plano de estudos",
+          "descricao": "Realizar atendimento em ambiente de confiança, analisar histórico, dificuldades, pré-requisitos e alternativas acadêmicas. Elaborar plano de estudos viável a cada semestre, conjuntamente ou a partir de proposta do estudante."
+        },
+        {
+          "numero": 7,
+          "responsavel": "Docente orientador",
+          "titulo": "Registrar atendimentos individuais com sigilo",
+          "descricao": "Quando houver situações particulares, registrar de forma concisa e objetiva no processo sigiloso; evitar detalhes íntimos e identificação desnecessária de terceiros. O SEI disponibiliza o modelo “PROGRAP POA: Registro Individual de OA”. Registrar autorização prévia antes de compartilhar dados, ressalvadas situações de risco conforme o manual."
+        },
+        {
+          "numero": 8,
+          "responsavel": "Docente orientador / Rede institucional",
+          "titulo": "Encaminhar demandas e acompanhar retornos",
+          "descricao": "Orientar sobre serviços de apoio pedagógico, psicológico, social, acessibilidade e acolhimento. Acompanhar encaminhamentos, mantendo o mínimo necessário de dados e a confidencialidade."
+        },
+        {
+          "numero": 9,
+          "responsavel": "Docente orientador",
+          "titulo": "Atualizar o plano e realizar acompanhamento semestral",
+          "descricao": "Reavaliar o plano de estudos a cada semestre e realizar novos encontros quando necessário. Para ações coletivas sem exposição de informações pessoais, basta registro geral da atividade e participantes."
+        },
+        {
+          "numero": 10,
+          "responsavel": "Docente orientador / Coordenação",
+          "titulo": "Elaborar relatório geral semestral",
+          "descricao": "Produzir “PROGRAP POA: Relatório das Atividades do POA”, com dados gerais sem associar estudantes a situações particulares. Encaminhar semestralmente à Coordenação por processo administrativo SEI com acesso restrito e fundamento na LGPD; NÃO tramitar o processo individual sigiloso."
+        },
+        {
+          "numero": 11,
+          "responsavel": "Colegiado ou COA / Orientadores",
+          "titulo": "Avaliar o programa e aperfeiçoar ações",
+          "descricao": "Analisar resultados agregados e necessidades de melhoria. O manual permite substituir relatórios gerais por atas de reuniões de avaliação que contenham os mesmos elementos, sem expor casos individuais."
+        },
+        {
+          "numero": 12,
+          "responsavel": "Coordenação",
+          "titulo": "Providenciar gestão institucional e certificações",
+          "descricao": "Solicitar semestralmente a alocação ou liberação de carga horária docente, certificar participantes e prestar informações necessárias à PROGRAP, respeitando o sigilo."
+        }
+      ]
+    },
+    {
+      "id": "registros",
+      "titulo": "Registros, sigilo e relatórios",
+      "etiqueta": "Proteção de dados",
+      "paragrafos": [
+        "Plano de estudos: elaborado ou atualizado semestralmente, considerando a viabilidade da integralização.",
+        "Registro individual: documento conciso, com dados pessoais estritamente necessários, mantido no processo sigiloso. Cópias locais de documentos sigilosos devem ser eliminadas após inclusão no SEI, inclusive da Lixeira.",
+        "Relatório geral de atividades: informações agregadas destinadas à Coordenação, ao Colegiado ou à COA, sem identificar estudantes por seus problemas ou encaminhamentos.",
+        "Informações confidenciais exigem autorização prévia registrada para compartilhamento, ressalvada situação de risco à segurança, quando o compartilhamento deve limitar-se ao mínimo necessário e o estudante deve ser informado assim que possível. Dados individuais não podem ser usados para pesquisa ou promoção institucional."
+      ]
+    },
+    {
+      "id": "apoio",
+      "titulo": "Rede institucional de apoio",
+      "etiqueta": "Encaminhamentos",
+      "paragrafos": [
+        "Quando a demanda ultrapassar o âmbito acadêmico, o tutor poderá orientar o estudante a procurar os serviços institucionais adequados. Consulte a oferta e as condições de atendimento nos sites oficiais.",
+        "Em urgências e emergências, procure a UPA ou acione o SAMU (192); o manual informa que a UFPR não possui serviço de urgência e emergência."
+      ],
+      "links": [
+        {
+          "titulo": "Apoio Pedagógico — P4E",
+          "url": "https://p4e.ufpr.br/atendimento/atendimento-pedagogico/",
+          "botao": "Acessar serviço"
+        },
+        {
+          "titulo": "Apoio Psicológico — P4E",
+          "url": "https://p4e.ufpr.br/atendimento/atendimento-psicologico/",
+          "botao": "Acessar serviço"
+        },
+        {
+          "titulo": "Serviço Social — P4E",
+          "url": "https://p4e.ufpr.br/atendimento/atendimento-social/",
+          "botao": "Acessar serviço"
+        },
+        {
+          "titulo": "CASA 1",
+          "url": "https://p4e.ufpr.br/casa-1/",
+          "botao": "Acessar serviço"
+        },
+        {
+          "titulo": "Acolhe — PROAFE",
+          "url": "https://proafe.ufpr.br/contato-7/",
+          "botao": "Acessar serviço"
+        },
+        {
+          "titulo": "Coordenadoria de Acessibilidade",
+          "url": "https://proafe.ufpr.br/coordenadoria-de-acessibilidade/",
+          "botao": "Acessar serviço"
+        },
+        {
+          "titulo": "CASA 3",
+          "url": "https://progepe.ufpr.br/progepe/caiss/casa3/",
+          "botao": "Acessar serviço"
+        },
+        {
+          "titulo": "CASA 4",
+          "url": "https://progepe.ufpr.br/progepe/caiss/casa4/",
+          "botao": "Acessar serviço"
+        },
+        {
+          "titulo": "Assessoria às Entidades Estudantis",
+          "url": "https://p4e.ufpr.br/assessoria-as-entidades-estudantis/",
+          "botao": "Acessar serviço"
+        },
+        {
+          "titulo": "Tecendo Gentilezas",
+          "url": "https://p4e.ufpr.br/tecendo-gentilezas/",
+          "botao": "Acessar serviço"
+        }
+      ]
+    },
+    {
+      "id": "duvidas",
+      "etiqueta": "Atendimento",
+      "titulo": "Como buscar orientação",
+      "paragrafos": [
+        "Para participar ou identificar o orientador, contate a Coordenação do Curso de Biomedicina. O ingresso também pode ocorrer por solicitação espontânea do estudante.",
+        "Os documentos disponíveis nesta página são modelos em branco; registros individuais preenchidos não são publicados.",
+        "Dúvidas institucionais sobre implantação e manutenção do POA: poa.prograp@ufpr.br (e-mail ou Teams), conforme o Manual de Formação 2026, página 31."
+      ],
+      "links": [
+        {
+          "titulo": "Contato da Coordenação de Biomedicina",
+          "url": "https://bio.ufpr.br/biomedicina/contato/",
+          "botao": "Acessar página"
+        },
+        {
+          "titulo": "Equipe POA / PROGRAP — e-mail",
+          "url": "mailto:poa.prograp@ufpr.br",
+          "botao": "Enviar e-mail"
+        }
+      ],
+      "subtitulo": "Perguntas frequentes"
+    }
+  ],
+  "rodape": "Universidade Federal do Paraná · Coordenação do Curso de Biomedicina · POA · Versão 9.0 · 29/10/2026"
+}

@@ -1,0 +1,24 @@
+POA BIOMEDICINA UFPR — NOVA PÁGINA V9.0
+
+ARQUIVOS (TODOS NA RAIZ, SEM SUBPASTAS):
+- index.html — página principal
+- styles.css — aparência e responsividade
+- app.js — carregamento e apresentação das seções
+- dados.json — conteúdo editável (fonte principal em GitHub Pages)
+
+COMO PUBLICAR EM NOVO REPOSITÓRIO:
+1. No GitHub, crie um repositório público (ex.: poa-biomedicina-ufpr).
+2. Envie os QUATRO arquivos à RAIZ do repositório.
+3. Em Settings > Pages > Build and deployment, escolha Deploy from a branch, main, /(root) e Save.
+4. Aguarde a execução bem-sucedida em Actions.
+5. Acesse https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
+6. Para alterar textos e links futuramente, edite dados.json e faça Commit. Atualize a página.
+
+IMPORTANTE:
+- Abrir index.html diretamente no computador funciona com a cópia JSON embutida.
+- No GitHub Pages, app.js busca dados.json a cada carregamento (cache no-store).
+- Caso dados.json falhe, a página usa o conteúdo de reserva embutido no HTML.
+- Se alterar o JSON e quiser também atualizar o modo offline, a cópia embutida no HTML deve ser regenerada.
+- NÃO envie o ZIP como único arquivo ao GitHub: extraia e envie os quatro arquivos.
+- Os links externos foram preservados da versão anterior e não tiveram sua disponibilidade individual validada.
+- Os procedimentos devem ser confirmados com a Coordenação em caso de divergência com regulamento local.
